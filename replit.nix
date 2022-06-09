@@ -4,5 +4,6 @@
         pkgs.elixir_ls
         pkgs.sqlite
         pkgs.inotify-tools
+        pkgs.wget
 	];
 }
