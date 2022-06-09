@@ -49,7 +49,8 @@ defmodule PhoenixApp.MixProject do
       {:gettext, "~> 0.18"},
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
-      {:ephp_template, git: "https://github.com/lukegalea/ephp_template.git"}
+      {:ephp_template, git: "https://github.com/lukegalea/ephp_template.git"},            
+      {:calendar, "~> 0.17.4"}
     ]
   end
 

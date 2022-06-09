@@ -1,4 +1,4 @@
-# Next
-  * Fork ephp_template to work with new phoenix
-  * Add ephp_template to app and test
+# Next  
   * Share back template
+  * Tzdata.zone_list()
+  * PHP live view example

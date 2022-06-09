@@ -2,6 +2,6 @@ defmodule PhoenixAppWeb.PageController do
   use PhoenixAppWeb, :controller
 
   def index(conn, _params) do
-    render(conn, "index.html")
+    render(conn, "index.html", name: gettext("Phoenix"))
   end
 end
